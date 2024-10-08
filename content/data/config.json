@@ -57,7 +57,7 @@
             "phoneAltText": "My phone number",
             "email": "a14402@oficina.pt",
             "emailAltText": "My email",
-            "address": "pacos ",
+            "address": "",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",

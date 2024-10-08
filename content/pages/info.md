@@ -68,7 +68,7 @@ sections:
       - type: Label
         label: JAVA
       - type: Label
-        label: Microsoft Office
+        label: Python
       - type: Label
         label: Next.js
       - type: Label

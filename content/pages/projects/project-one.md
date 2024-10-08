@@ -17,7 +17,7 @@ media:
   altText: Project image
 bottomSections:
   - type: CtaSection
-    title: 'download do projeto:'
+    title: 'Download do projeto:'
     text: ''
     actions:
       - type: Button

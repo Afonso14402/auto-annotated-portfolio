@@ -28,3 +28,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Neste trabalho tínhamos que fazer o design do formulário em (HTML5 e CSS3) , Consultas SQL , validar dados do formulário enviados para o servidor através de pedidos GET e POST (nome de utilizador, palavra-passe, email, etc) e fazer a  gestão de sessões para guardar resultados da base de dados obtidos. As sessões são guardadas no servidor e estão associadas a um ID único que é guardado no navegador .

@@ -72,7 +72,7 @@ sections:
       - type: Label
         label: CSS 3
       - type: Label
-        label: Netlify
+        label: MYSQL/SQLSERVER
       - type: Label
         label: Pancakes
       - type: Label

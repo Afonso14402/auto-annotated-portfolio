@@ -14,7 +14,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/smartmockups_m1ut20h8-removebg-preview.png
+  url: /images/file (1).png
   altText: Project image
   caption: Caption of the image
   elementId: ''

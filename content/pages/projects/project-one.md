@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Elementor
 colors: colors-a
 date: '2024-01-24'
-client: Awesome client
+client: ''
 description: >-
   Este trabalho foi realizado na disciplina de REDES , no âmbito do modulo 5 ,
   denominado de desenvolvimento de paginas web dinâmicas.

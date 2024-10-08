@@ -143,9 +143,13 @@ sections:
           Instituto Nun’ Alvres
 
           2017-2022
+
+
           EB 2,3 de Frazão
 
           2011-2017
+
+
           Cento Escolar de Seroa
         styles:
           self:

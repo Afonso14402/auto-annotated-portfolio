@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/smartmockups_m1xz6ssm-Photoroom.png
   altText: Project image
 ---
 Neste trabalho tínhamos que fazer o design sobre lavagem de caros , apenas  usando recurso aos Blocos disponibilizados pelo plugin Elementor.

@@ -139,16 +139,15 @@ sections:
         subtitle: 'Educação:'
         text: |
           2022-2025
+
           OFICINA- Escola Profissional do
           Instituto Nun’ Alvres
 
           2017-2022
 
-
           EB 2,3 de Frazão
 
           2011-2017
-
 
           Cento Escolar de Seroa
         styles:

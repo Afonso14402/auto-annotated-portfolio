@@ -93,7 +93,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contacto:'
+    subtitle: con
     colors: colors-f
     text: |
       [a14402@oficina.pt](mailto:thisismyemail.@myemail.me)

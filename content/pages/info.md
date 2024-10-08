@@ -137,18 +137,16 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |
+          2022-2025
+          OFICINA- Escola Profissional do
+          Instituto Nun’ Alvres
 
-          * ba computer sciense at a semi fancy school
+          2017-2022
+          EB 2,3 de Frazão
 
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+          2011-2017
+          Cento Escolar de Seroa
         styles:
           self:
             textAlign: left

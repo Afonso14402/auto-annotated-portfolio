@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Elementor
 colors: colors-a
-date: '2021-10-02'
+date: '2021-10-24'
 client: Awesome client
 description: >-
   Este trabalho foi realizado na disciplina de REDES , no âmbito do modulo 5 ,

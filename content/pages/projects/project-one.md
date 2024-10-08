@@ -21,7 +21,7 @@ bottomSections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: download
         altText: ''
         url: /
         showIcon: true

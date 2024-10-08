@@ -23,7 +23,8 @@ bottomSections:
       - type: Button
         label: Download
         altText: ''
-        url: /
+        url: >-
+          https://drive.google.com/drive/folders/13ax8OWngPKFMRXPF5EY_O49LTlpQQgvj?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right

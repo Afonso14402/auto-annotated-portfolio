@@ -114,26 +114,19 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          <!---->
 
-          * freelance @freelance.me
+          À velocidade do Sol(carrinho solar)
 
-          **2018-2021**
+          <!---->
 
-          * fullstack at this startup
+          Divulgação externa-oficina
 
-          **2015**
+          <!---->
 
-          * senior front-end at this place
+          Projeto Bgreen
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left

@@ -9,7 +9,7 @@ description: >-
   denominado de desenvolvimento de paginas web dinâmicas.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Captura de ecrã 2024-10-06 002534 (1).png
   altText: Project thumbnail image
 media:
   type: ImageBlock

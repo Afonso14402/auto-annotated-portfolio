@@ -27,5 +27,42 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+bottomSections:
+  - type: CtaSection
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Try it now
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
 Neste trabalho tínhamos que fazer o design do formulário em (HTML5 e CSS3) , Consultas SQL , validar dados do formulário enviados para o servidor através de pedidos GET e POST (nome de utilizador, palavra-passe, email, etc) e fazer a  gestão de sessões para guardar resultados da base de dados obtidos. As sessões são guardadas no servidor e estão associadas a um ID único que é guardado no navegador .

@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: LOJA WEB
 colors: colors-a
-date: '2022-12-04'
+date: '0002-12-04'
 client: ''
 description: >-
   Este trabalho foi realizado na disciplina de REDES , no âmbito do modulo 5 ,

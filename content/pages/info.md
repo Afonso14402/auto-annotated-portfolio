@@ -70,7 +70,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Next.js
+        label: CSS 3
       - type: Label
         label: Netlify
       - type: Label

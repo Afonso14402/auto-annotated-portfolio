@@ -14,7 +14,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/smartmockups_m1ut20h8-removebg-preview.png
   altText: Project image
   caption: Caption of the image
   elementId: ''

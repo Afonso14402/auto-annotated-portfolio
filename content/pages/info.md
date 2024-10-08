@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      #### Sou aluno do curso Técnico de Gestão e Programação de Sistemas
+      ### Sou aluno do curso Técnico de Gestão e Programação de Sistemas
       Informáticos da OFICINA-Escola Profissional do INA . Algumas das minhas
       características são: pontual, gosto aprender coisas novas, sou curioso e
       gosto de trabalhar em equipa.

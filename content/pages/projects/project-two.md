@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/smartmockups_m1xz8vej-removebg.png
   altText: Project image
 ---
 Este trabalho foi realizado em contexto de sala de aula com o intuito de ver perfis de utilizadores de um site utilizando o AJAX CRUD

@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Login
 date: '2023-11-02'
-client: Awesome client
+client: ''
 description: >-
   Este trabalho foi realizado na disciplina de REDES , no âmbito do modulo 4 ,
   desenvolvimento das paginas web estáticas .

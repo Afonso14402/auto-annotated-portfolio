@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: AJAX-CRUD
 colors: colors-a
-date: '2021-12-03'
+date: '2021-12-30'
 client: ''
 description: >-
   Este trabalho foi realizado na disciplina de REDES, no âmbito do modulo 6,

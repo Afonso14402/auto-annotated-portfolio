@@ -75,8 +75,6 @@ sections:
         label: MYSQL/SQLSERVER
       - type: Label
         label: C++
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:

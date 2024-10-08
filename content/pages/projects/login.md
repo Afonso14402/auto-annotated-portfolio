@@ -4,8 +4,8 @@ title: Login
 date: '2024-10-08'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Este trabalho foi realizado na disciplina de REDES , no âmbito do modulo 4 ,
+  desenvolvimento das paginas web estáticas .
 featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 150931.png

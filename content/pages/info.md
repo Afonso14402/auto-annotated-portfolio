@@ -66,7 +66,7 @@ sections:
       - type: Label
         label: HTML 5
       - type: Label
-        label: React
+        label: JAVA
       - type: Label
         label: Microsoft Office
       - type: Label

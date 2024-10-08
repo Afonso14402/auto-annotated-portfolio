@@ -9,7 +9,7 @@ description: >-
   denominado de programação de sistemas de cominação.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Captura de ecrã 2024-10-06 001859.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

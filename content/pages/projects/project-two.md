@@ -3,7 +3,7 @@ type: ProjectLayout
 title: AJAX-CRUD
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ''
 description: >-
   Este trabalho foi realizado na disciplina de REDES, no âmbito do modulo 6,
   denominado de programação de sistemas de cominação.
